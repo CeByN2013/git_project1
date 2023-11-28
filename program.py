@@ -4,5 +4,8 @@ def main():
 def hello():
     print('hello world')
 
+def end():
+    print('Пора заканчивать')
+
 if __name__ == '__main__':
     main()
